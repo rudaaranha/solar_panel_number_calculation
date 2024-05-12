@@ -1,0 +1,1 @@
+# solar_panel_number_calculation
